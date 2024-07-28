@@ -6,3 +6,4 @@ My goal for this project was to expose myself to machine learning and develop a 
 
 How its made: 
 Technologies used included Python, Scikit-learn.
+Starting out, I needed to learn what tools I could use to create a program using machine learning, and during my research I came across the Scikit-learn library. 
